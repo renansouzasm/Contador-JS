@@ -1,2 +1,1 @@
-# Contador-JS
-Contador JS
+# Contador JS
